@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Category,Unit_Price,Unit_Cost,Brand,Supplier
+P0001,Mouse 1,Electronics,14044.23,8467.07,Nova,Supplier A
+P0002,Dress 1,Fashion,5194.01,3507.32,Aster,Supplier B
+P0003,Coffee Maker 1,Home & Kitchen,1356.58,1021.74,UrbanLeaf,Supplier A
+P0004,Hair Dryer 1,Beauty,2699.82,1890.14,FitCore,Supplier A
+P0005,Cricket Bat 1,Sports,1370.99,830.97,PixelPro,Supplier A
+P0006,Wireless Earbuds 2,Electronics,6988.97,5168.3,Nova,Supplier B
+P0007,Jeans 2,Fashion,3970.03,2820.2,DailyNest,Supplier A
+P0008,Water Bottle 2,Home & Kitchen,5460.12,2968.27,UrbanLeaf,Supplier D
+P0009,Moisturizer 2,Beauty,2007.86,999.65,PixelPro,Supplier C
+P0010,Yoga Mat 2,Sports,7491.77,4921.09,UrbanLeaf,Supplier D
+P0011,Bluetooth Speaker 3,Electronics,13766.54,7974.51,Aster,Supplier B
+P0012,Jeans 3,Fashion,5832.98,4258.51,Aster,Supplier A
+P0013,Air Fryer 3,Home & Kitchen,9396.01,5022.16,PixelPro,Supplier A
+P0014,Shampoo 3,Beauty,1713.52,843.51,Aster,Supplier C
+P0015,Yoga Mat 3,Sports,1600.03,1074.03,FitCore,Supplier D
+P0016,Keyboard 4,Electronics,13533.34,10162.22,Nova,Supplier D
+P0017,T-Shirt 4,Fashion,2157.2,1259.22,DailyNest,Supplier C
+P0018,Mixer 4,Home & Kitchen,5767.28,3074.26,DailyNest,Supplier C
+P0019,Perfume 4,Beauty,585.24,358.87,UrbanLeaf,Supplier A
+P0020,Yoga Mat 4,Sports,2235.46,1492.28,FitCore,Supplier B
+P0021,Bluetooth Speaker 5,Electronics,8150.16,5812.29,Nova,Supplier B
+P0022,T-Shirt 5,Fashion,4291.51,2435.27,PixelPro,Supplier C
+P0023,Bedsheet 5,Home & Kitchen,10029.05,7073.83,FitCore,Supplier C
+P0024,Moisturizer 5,Beauty,1448.05,811.97,Aster,Supplier C
+P0025,Dumbbells 5,Sports,6221.84,3229.95,FitCore,Supplier C
+P0026,Mouse 6,Electronics,3998.39,1927.47,FitCore,Supplier A
+P0027,Jacket 6,Fashion,4785.47,3187.88,FitCore,Supplier B
+P0028,Water Bottle 6,Home & Kitchen,8535.69,5963.07,FitCore,Supplier B
+P0029,Moisturizer 6,Beauty,1687.37,1078.65,PixelPro,Supplier D
+P0030,Running Shoes 6,Sports,1473.22,754.39,FitCore,Supplier B
+P0031,Mouse 7,Electronics,12197.05,7463.46,Aster,Supplier A
+P0032,Jeans 7,Fashion,3521.85,2444.87,Nova,Supplier C
+P0033,Bedsheet 7,Home & Kitchen,7707.94,4894.56,Aster,Supplier A
+P0034,Moisturizer 7,Beauty,2023.34,1143.4,DailyNest,Supplier C
+P0035,Dumbbells 7,Sports,519.66,312.98,FitCore,Supplier D
+P0036,Power Bank 8,Electronics,4255.23,2529.26,FitCore,Supplier D
+P0037,Jeans 8,Fashion,5164.4,2817.2,Aster,Supplier B
+P0038,Coffee Maker 8,Home & Kitchen,935.06,522.5,FitCore,Supplier C
+P0039,Hair Dryer 8,Beauty,1133.54,754.19,DailyNest,Supplier D
+P0040,Cricket Bat 8,Sports,5124.03,3584.22,PixelPro,Supplier C
+P0041,Smart Watch 9,Electronics,12125.49,7199.97,UrbanLeaf,Supplier D
+P0042,T-Shirt 9,Fashion,4939.92,2602.11,Nova,Supplier A
+P0043,Coffee Maker 9,Home & Kitchen,516.87,261.13,FitCore,Supplier B
+P0044,Hair Dryer 9,Beauty,2569.9,1565.91,PixelPro,Supplier A
+P0045,Gym Bag 9,Sports,1661.13,1030.39,PixelPro,Supplier D
+P0046,Keyboard 10,Electronics,3165.46,2136.59,Aster,Supplier A
+P0047,Dress 10,Fashion,2843.09,1668.0,FitCore,Supplier A
+P0048,Mixer 10,Home & Kitchen,3792.77,2489.87,DailyNest,Supplier C
+P0049,Hair Dryer 10,Beauty,1362.07,687.22,Aster,Supplier A
+P0050,Running Shoes 10,Sports,1282.55,961.05,PixelPro,Supplier B
+P0051,Power Bank 11,Electronics,16400.16,11085.16,Nova,Supplier C
+P0052,Jacket 11,Fashion,1815.46,1364.08,UrbanLeaf,Supplier A
+P0053,Mixer 11,Home & Kitchen,9400.32,6399.07,Aster,Supplier B
+P0054,Moisturizer 11,Beauty,1655.36,920.76,Aster,Supplier B
+P0055,Cricket Bat 11,Sports,1093.42,801.18,DailyNest,Supplier A
+P0056,Keyboard 12,Electronics,8476.09,4548.79,Aster,Supplier D
+P0057,T-Shirt 12,Fashion,2043.95,1312.59,Nova,Supplier C
+P0058,Storage Set 12,Home & Kitchen,2327.08,1675.15,UrbanLeaf,Supplier A
+P0059,Moisturizer 12,Beauty,2691.04,1833.81,DailyNest,Supplier A
+P0060,Yoga Mat 12,Sports,4030.81,2642.79,FitCore,Supplier D
+P0061,Wireless Earbuds 13,Electronics,10721.71,7097.31,DailyNest,Supplier B
+P0062,Jeans 13,Fashion,781.33,466.01,FitCore,Supplier D
+P0063,Water Bottle 13,Home & Kitchen,738.97,456.92,UrbanLeaf,Supplier C
+P0064,Perfume 13,Beauty,1255.04,653.21,DailyNest,Supplier D
+P0065,Dumbbells 13,Sports,1154.78,744.3,DailyNest,Supplier B
+P0066,Mouse 14,Electronics,3485.38,2575.81,Aster,Supplier D
+P0067,Dress 14,Fashion,3612.05,2084.6,FitCore,Supplier C
+P0068,Bedsheet 14,Home & Kitchen,7193.26,3498.69,DailyNest,Supplier D
+P0069,Face Wash 14,Beauty,3361.17,2067.27,UrbanLeaf,Supplier B
+P0070,Yoga Mat 14,Sports,7098.93,3571.93,Aster,Supplier A
+P0071,Keyboard 15,Electronics,9016.52,5566.78,DailyNest,Supplier B
+P0072,Jacket 15,Fashion,5645.61,3613.66,UrbanLeaf,Supplier A
+P0073,Air Fryer 15,Home & Kitchen,5813.5,3225.06,FitCore,Supplier A
+P0074,Moisturizer 15,Beauty,1260.76,788.97,Nova,Supplier A
+P0075,Running Shoes 15,Sports,4090.48,1988.18,Nova,Supplier B
+P0076,Bluetooth Speaker 16,Electronics,14960.11,10934.72,FitCore,Supplier D
+P0077,Jeans 16,Fashion,1099.42,698.27,DailyNest,Supplier B
+P0078,Mixer 16,Home & Kitchen,1525.76,1019.55,DailyNest,Supplier D
+P0079,Moisturizer 16,Beauty,1092.13,725.87,PixelPro,Supplier D
+P0080,Dumbbells 16,Sports,6611.2,4596.25,Nova,Supplier A
+P0081,Mouse 17,Electronics,2385.47,1756.86,PixelPro,Supplier C
+P0082,Backpack 17,Fashion,1612.22,790.75,PixelPro,Supplier D
+P0083,Mixer 17,Home & Kitchen,6769.52,3952.44,Nova,Supplier A
+P0084,Face Wash 17,Beauty,2929.8,2069.35,PixelPro,Supplier C
+P0085,Yoga Mat 17,Sports,3024.97,2259.08,UrbanLeaf,Supplier B
+P0086,Smart Watch 18,Electronics,5591.06,3490.03,DailyNest,Supplier D
+P0087,Jeans 18,Fashion,1759.0,1305.34,PixelPro,Supplier B
+P0088,Storage Set 18,Home & Kitchen,2184.14,1075.85,PixelPro,Supplier B
+P0089,Face Wash 18,Beauty,1607.58,1218.33,PixelPro,Supplier A
+P0090,Yoga Mat 18,Sports,8052.18,5552.87,FitCore,Supplier A
+P0091,Wireless Earbuds 19,Electronics,16088.87,11747.53,UrbanLeaf,Supplier B
+P0092,Backpack 19,Fashion,3257.49,1851.75,PixelPro,Supplier D
+P0093,Coffee Maker 19,Home & Kitchen,9321.15,6201.04,PixelPro,Supplier A
+P0094,Moisturizer 19,Beauty,1401.75,709.92,PixelPro,Supplier A
+P0095,Gym Bag 19,Sports,6784.41,3755.1,Aster,Supplier D
+P0096,Bluetooth Speaker 20,Electronics,16894.23,9249.11,PixelPro,Supplier D
+P0097,Jeans 20,Fashion,999.72,712.51,UrbanLeaf,Supplier C
+P0098,Coffee Maker 20,Home & Kitchen,2051.09,1087.48,Nova,Supplier A
+P0099,Hair Dryer 20,Beauty,2157.93,1564.23,Aster,Supplier A
+P0100,Yoga Mat 20,Sports,1968.8,1116.09,DailyNest,Supplier D

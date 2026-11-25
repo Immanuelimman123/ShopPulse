@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Category,Current_Stock,Reorder_Level,Stock_Status,Unit_Cost,Stock_Value
+P0001,Mouse 1,Electronics,43,68,Low Stock,8467.07,364084.01
+P0002,Dress 1,Fashion,108,48,Healthy,3507.32,378790.56
+P0003,Coffee Maker 1,Home & Kitchen,199,64,Healthy,1021.74,203326.26
+P0004,Hair Dryer 1,Beauty,359,95,Healthy,1890.14,678560.26
+P0005,Cricket Bat 1,Sports,301,63,Healthy,830.97,250121.97
+P0006,Wireless Earbuds 2,Electronics,291,65,Healthy,5168.3,1503975.3
+P0007,Jeans 2,Fashion,2,64,Low Stock,2820.2,5640.4
+P0008,Water Bottle 2,Home & Kitchen,371,89,Healthy,2968.27,1101228.17
+P0009,Moisturizer 2,Beauty,45,77,Low Stock,999.65,44984.25
+P0010,Yoga Mat 2,Sports,55,32,Healthy,4921.09,270659.95
+P0011,Bluetooth Speaker 3,Electronics,22,38,Low Stock,7974.51,175439.22
+P0012,Jeans 3,Fashion,42,70,Low Stock,4258.51,178857.42
+P0013,Air Fryer 3,Home & Kitchen,460,83,Healthy,5022.16,2310193.6
+P0014,Shampoo 3,Beauty,365,38,Healthy,843.51,307881.15
+P0015,Yoga Mat 3,Sports,469,65,Healthy,1074.03,503720.07
+P0016,Keyboard 4,Electronics,15,74,Low Stock,10162.22,152433.3
+P0017,T-Shirt 4,Fashion,352,58,Healthy,1259.22,443245.44
+P0018,Mixer 4,Home & Kitchen,357,78,Healthy,3074.26,1097510.82
+P0019,Perfume 4,Beauty,290,53,Healthy,358.87,104072.3
+P0020,Yoga Mat 4,Sports,499,73,Healthy,1492.28,744647.72
+P0021,Bluetooth Speaker 5,Electronics,231,83,Healthy,5812.29,1342638.99
+P0022,T-Shirt 5,Fashion,121,96,Healthy,2435.27,294667.67
+P0023,Bedsheet 5,Home & Kitchen,367,74,Healthy,7073.83,2596095.61
+P0024,Moisturizer 5,Beauty,133,54,Healthy,811.97,107992.01
+P0025,Dumbbells 5,Sports,474,80,Healthy,3229.95,1530996.3
+P0026,Mouse 6,Electronics,55,86,Low Stock,1927.47,106010.85
+P0027,Jacket 6,Fashion,59,59,Low Stock,3187.88,188084.92
+P0028,Water Bottle 6,Home & Kitchen,208,55,Healthy,5963.07,1240318.56
+P0029,Moisturizer 6,Beauty,247,40,Healthy,1078.65,266426.55
+P0030,Running Shoes 6,Sports,330,77,Healthy,754.39,248948.7
+P0031,Mouse 7,Electronics,425,61,Healthy,7463.46,3171970.5
+P0032,Jeans 7,Fashion,265,39,Healthy,2444.87,647890.55
+P0033,Bedsheet 7,Home & Kitchen,173,69,Healthy,4894.56,846758.88
+P0034,Moisturizer 7,Beauty,208,99,Healthy,1143.4,237827.2
+P0035,Dumbbells 7,Sports,138,33,Healthy,312.98,43191.24
+P0036,Power Bank 8,Electronics,433,66,Healthy,2529.26,1095169.58
+P0037,Jeans 8,Fashion,35,95,Low Stock,2817.2,98602.0
+P0038,Coffee Maker 8,Home & Kitchen,103,97,Healthy,522.5,53817.5
+P0039,Hair Dryer 8,Beauty,172,53,Healthy,754.19,129720.68
+P0040,Cricket Bat 8,Sports,105,42,Healthy,3584.22,376343.1
+P0041,Smart Watch 9,Electronics,400,59,Healthy,7199.97,2879988.0
+P0042,T-Shirt 9,Fashion,278,52,Healthy,2602.11,723386.58
+P0043,Coffee Maker 9,Home & Kitchen,211,63,Healthy,261.13,55098.43
+P0044,Hair Dryer 9,Beauty,155,71,Healthy,1565.91,242716.05
+P0045,Gym Bag 9,Sports,232,83,Healthy,1030.39,239050.48
+P0046,Keyboard 10,Electronics,388,74,Healthy,2136.59,828996.92
+P0047,Dress 10,Fashion,51,92,Low Stock,1668.0,85068.0
+P0048,Mixer 10,Home & Kitchen,347,81,Healthy,2489.87,863984.89
+P0049,Hair Dryer 10,Beauty,324,66,Healthy,687.22,222659.28
+P0050,Running Shoes 10,Sports,281,38,Healthy,961.05,270055.05
+P0051,Power Bank 11,Electronics,459,86,Healthy,11085.16,5088088.44
+P0052,Jacket 11,Fashion,454,79,Healthy,1364.08,619292.32
+P0053,Mixer 11,Home & Kitchen,132,53,Healthy,6399.07,844677.24
+P0054,Moisturizer 11,Beauty,433,46,Healthy,920.76,398689.08
+P0055,Cricket Bat 11,Sports,307,76,Healthy,801.18,245962.26
+P0056,Keyboard 12,Electronics,91,35,Healthy,4548.79,413939.89
+P0057,T-Shirt 12,Fashion,16,85,Low Stock,1312.59,21001.44
+P0058,Storage Set 12,Home & Kitchen,145,45,Healthy,1675.15,242896.75
+P0059,Moisturizer 12,Beauty,454,71,Healthy,1833.81,832549.74
+P0060,Yoga Mat 12,Sports,12,51,Low Stock,2642.79,31713.48
+P0061,Wireless Earbuds 13,Electronics,237,63,Healthy,7097.31,1682062.47
+P0062,Jeans 13,Fashion,391,86,Healthy,466.01,182209.91
+P0063,Water Bottle 13,Home & Kitchen,15,50,Low Stock,456.92,6853.8
+P0064,Perfume 13,Beauty,300,32,Healthy,653.21,195963.0
+P0065,Dumbbells 13,Sports,285,35,Healthy,744.3,212125.5
+P0066,Mouse 14,Electronics,286,35,Healthy,2575.81,736681.66
+P0067,Dress 14,Fashion,369,62,Healthy,2084.6,769217.4
+P0068,Bedsheet 14,Home & Kitchen,475,35,Healthy,3498.69,1661877.75
+P0069,Face Wash 14,Beauty,434,58,Healthy,2067.27,897195.18
+P0070,Yoga Mat 14,Sports,243,78,Healthy,3571.93,867978.99
+P0071,Keyboard 15,Electronics,311,91,Healthy,5566.78,1731268.58
+P0072,Jacket 15,Fashion,415,45,Healthy,3613.66,1499668.9
+P0073,Air Fryer 15,Home & Kitchen,137,91,Healthy,3225.06,441833.22
+P0074,Moisturizer 15,Beauty,405,98,Healthy,788.97,319532.85
+P0075,Running Shoes 15,Sports,457,73,Healthy,1988.18,908598.26
+P0076,Bluetooth Speaker 16,Electronics,481,81,Healthy,10934.72,5259600.32
+P0077,Jeans 16,Fashion,443,63,Healthy,698.27,309333.61
+P0078,Mixer 16,Home & Kitchen,482,35,Healthy,1019.55,491423.1
+P0079,Moisturizer 16,Beauty,453,97,Healthy,725.87,328819.11
+P0080,Dumbbells 16,Sports,394,96,Healthy,4596.25,1810922.5
+P0081,Mouse 17,Electronics,210,52,Healthy,1756.86,368940.6
+P0082,Backpack 17,Fashion,66,43,Healthy,790.75,52189.5
+P0083,Mixer 17,Home & Kitchen,433,34,Healthy,3952.44,1711406.52
+P0084,Face Wash 17,Beauty,100,64,Healthy,2069.35,206935.0
+P0085,Yoga Mat 17,Sports,179,94,Healthy,2259.08,404375.32
+P0086,Smart Watch 18,Electronics,14,32,Low Stock,3490.03,48860.42
+P0087,Jeans 18,Fashion,136,72,Healthy,1305.34,177526.24
+P0088,Storage Set 18,Home & Kitchen,177,88,Healthy,1075.85,190425.45
+P0089,Face Wash 18,Beauty,47,56,Low Stock,1218.33,57261.51
+P0090,Yoga Mat 18,Sports,324,72,Healthy,5552.87,1799129.88
+P0091,Wireless Earbuds 19,Electronics,258,61,Healthy,11747.53,3030862.74
+P0092,Backpack 19,Fashion,47,34,Healthy,1851.75,87032.25
+P0093,Coffee Maker 19,Home & Kitchen,27,65,Low Stock,6201.04,167428.08
+P0094,Moisturizer 19,Beauty,442,36,Healthy,709.92,313784.64
+P0095,Gym Bag 19,Sports,32,77,Low Stock,3755.1,120163.2
+P0096,Bluetooth Speaker 20,Electronics,250,51,Healthy,9249.11,2312277.5
+P0097,Jeans 20,Fashion,8,86,Low Stock,712.51,5700.08
+P0098,Coffee Maker 20,Home & Kitchen,329,71,Healthy,1087.48,357780.92
+P0099,Hair Dryer 20,Beauty,117,95,Healthy,1564.23,183014.91
+P0100,Yoga Mat 20,Sports,31,81,Low Stock,1116.09,34598.79
